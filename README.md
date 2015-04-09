@@ -14,6 +14,12 @@ There are a few places on the internet that offer `Clojure` documentation.
 * [ClojureDocs][doc:clojuredoc] Community powered documentation for `Clojure`. For each function/macro there are some typical examples.
 * [CDS][doc:cds] An other site dedicated to community powered documentation. Also has tutorials
 
+Videos
+------
+
+* [ClojureTV][video:clojuretv] a youtube channel focussed on `Clojure`.
+
 [doc:official]: http://clojure.org/documentation
 [doc:clojuredoc]: https://clojuredocs.org/
 [doc:cds]: http://clojure-doc.org/
+[video:clojuretv]: https://www.youtube.com/user/ClojureTV
