@@ -1,2 +1,3 @@
-# resources
-Useful resources to learn clojure
+# Resources
+
+Useful resources to learn clojure.
