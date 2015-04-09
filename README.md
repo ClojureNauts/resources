@@ -19,7 +19,15 @@ Videos
 
 * [ClojureTV][video:clojuretv] a youtube channel focussed on `Clojure`.
 
+Meta
+----
+
+Referencing other resources that gathering `Clojure` resources.
+
+* [Clojure-Resources][meta:clojure-resources] Mathhias Nehlsen has compiled an extensive list of resources.
+
 [doc:official]: http://clojure.org/documentation
 [doc:clojuredoc]: https://clojuredocs.org/
 [doc:cds]: http://clojure-doc.org/
 [video:clojuretv]: https://www.youtube.com/user/ClojureTV
+[meta:clojure-resources]: https://github.com/matthiasn/Clojure-Resources
