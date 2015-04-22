@@ -25,9 +25,11 @@ Meta
 Referencing other resources that gathering `Clojure` resources.
 
 * [Clojure-Resources][meta:clojure-resources] Mathhias Nehlsen has compiled an extensive list of resources.
+* [Clojure Weekly][meta:clojure-weekly] A weekly collection of Clojure topics. 
 
 [doc:official]: http://clojure.org/documentation
 [doc:clojuredoc]: https://clojuredocs.org/
 [doc:cds]: http://clojure-doc.org/
 [video:clojuretv]: https://www.youtube.com/user/ClojureTV
 [meta:clojure-resources]: https://github.com/matthiasn/Clojure-Resources
+[meta:clojure-weekly]: http://reborg.tumblr.com/
